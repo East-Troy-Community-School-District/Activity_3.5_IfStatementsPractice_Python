@@ -23,13 +23,13 @@ else:
 # Draws the selected shape, if valid
 if shape == "square":
     side = int(input("How big should the sides be? >> "))
-    t.forward(100)
+    t.forward(side)
     t.left(90)
-    t.forward(100)
+    t.forward(side)
     t.left(90)
-    t.forward(100)
+    t.forward(side)
     t.left(90)
-    t.forward(100)
+    t.forward(side)
     t.left(90)
 elif shape == "circle":
     radius = int(input("How big should the radius be? >> "))
