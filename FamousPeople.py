@@ -1,7 +1,8 @@
 '''
 Famous People
-1/9/2023
-Python I
+Pawelski
+10/15/2023
+Introduction to Computer Science
 '''
 
 name = input("Enter your last name >> ")

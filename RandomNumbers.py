@@ -1,7 +1,8 @@
 '''
 Random Numbers
-1/9/2023
-Python I
+Pawelski
+10/15/2023
+Introduction to Computer Science
 '''
 
 import random

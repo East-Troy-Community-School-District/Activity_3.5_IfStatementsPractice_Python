@@ -1,7 +1,8 @@
 '''
 Conditions Errors 2
-1/9/2023
-Python I
+Pawelski
+10/15/2023
+Introduction to Computer Science
 '''
 
 pet = input("Enter the type of pet you have >> ")
